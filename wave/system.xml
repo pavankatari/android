@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project path="system/bt" name="android_system_bt" remote="WaveOS" />
+    <project path="system/core" name="android_system_core" remote="WaveOS" />
+    <project path="system/extras" name="android_system_extras" remote="WaveOS" />
+    <project path="system/qcom" name="android_system_qcom" remote="WaveOS" />
+    <project path="system/sepolicy" name="android_system_sepolicy" remote="WaveOS" />
+    <project path="system/vold" name="android_system_vold" remote="WaveOS" />
+    <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="WaveOS" />
+	<project path="system/update_engine" name="android_system_update_engine" groups="pdk" remote="WaveOS" />
+
+  </manifest>
