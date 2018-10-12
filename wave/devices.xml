@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   
-  <project path="device/WaveOS/sepolicy" name="android_device_WaveOS_sepolicy" remote="WaveOS" />
+  <project path="device/wave/sepolicy" name="android_device_wave_sepolicy" remote="WaveOS" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="WaveOS" />
   <project path="device/qcom/sepolicy-legacy" name="android_device_qcom_sepolicy-legacy" remote="WaveOS" />
 

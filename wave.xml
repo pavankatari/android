@@ -4,13 +4,13 @@
   <!-- WaveOS remote -->
   <remote name="WaveOS"
           fetch="https://github.com/Wave-Project"
-          revision="refs/heads/π"
+          revision="refs/heads/pie"
           sync-j="16" />
 		  
   <!-- WaveDevices remote -->
   <remote name="WaveDevices"
           fetch="https://github.com/WaveDevices"
-          revision="refs/heads/π"
+          revision="refs/heads/pie"
           sync-j="16" />		  
 
   <remote name="github"

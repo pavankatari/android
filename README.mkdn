@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/Wave-Project/android/blob/π/wave/wave.png" >
+<img src="https://github.com/Wave-Project/android/blob/pie/wave/wave.png" >
 </p>
 
 # WaveOS #
@@ -11,7 +11,7 @@ To get started with manifest/WaveOS, you'll need to get familiar with [Repo](htt
 To initialize your local repository using the WaveOS trees, use a command like this:
 
 ```bash
-repo init -u https://github.com/Wave-Project/android -b π
+repo init -u https://github.com/Wave-Project/android -b pie
 
 ```
 

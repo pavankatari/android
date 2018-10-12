@@ -2,10 +2,10 @@
 <manifest>
 
     <project path="vendor/wave" name="android_vendor_wave" remote="WaveOS" />
-    <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="WaveOS" revision="pie" />
-    <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="WaveOS" revision="pie" />
-    <project path="vendor/qcom/opensource/dpm" name="android_vendor_qcom_opensource_dpm" remote="WaveOS" revision="pie" />
-    <project path="vendor/qcom/opensource/audio" name="android_vendor_qcom_opensource_audio" remote="WaveOS" revision="pie" />
-    <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="WaveOS" revision="pie" />
+    <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="WaveOS" />
+    <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="WaveOS" />
+    <project path="vendor/qcom/opensource/dpm" name="android_vendor_qcom_opensource_dpm" remote="WaveOS" />
+    <project path="vendor/qcom/opensource/audio" name="android_vendor_qcom_opensource_audio" remote="WaveOS" />
+    <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="WaveOS" />
 
 </manifest>
