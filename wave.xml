@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- WaveOS remote -->
+  <remote name="WaveOS"
+          fetch="https://github.com/Wave-Project"
+          revision="refs/heads/9.0"
+          sync-j="16" />
+		  
+  <!-- WaveDevices remote -->
+  <remote name="WaveDevices"
+          fetch="https://github.com/WaveDevices"
+          revision="refs/heads/9.0"
+          sync-j="16" />		  
+
+  <remote name="github"
+          fetch="https://github.com/" />
+		   
+  <!-- Removed projects -->	   
+  <include name="remove.xml" />
+
+  <!-- Imported projects -->
+  <include name="wave/build.xml" />
+  <include name="wave/devices.xml" />
+  <include name="wave/external.xml" />
+  <include name="wave/frameworks.xml" />
+  <include name="wave/hals.xml" />
+  <include name="wave/packages.xml" />
+  <include name="wave/prebuilts.xml" />
+  <include name="wave/system.xml" />
+  <include name="wave/vendors.xml" />
+
+</manifest>
