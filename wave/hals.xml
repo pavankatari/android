@@ -28,6 +28,7 @@
   <project path="hardware/qcom/wlan-caf" name="android_hardware_qcom_wlan" remote="WaveOS" revision="9.0-caf" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="WaveOS" />
   <project path="hardware/wave/interfaces" name="android_hardware_wave_interfaces" groups="pdk" remote="WaveOS" />
+  <project path="hardware/wave/telephony" name="android_hardware_wave_telephony" remote="WaveOS" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="WaveOS" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="WaveOS" />
   <project path="hardware/nxp/nfc" name="android_hardware_nxp_nfc" remote="WaveOS" />
